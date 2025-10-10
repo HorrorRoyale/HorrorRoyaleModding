@@ -1,0 +1,222 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "EA7432BA74F40FC483652D622A59E770C4AF9D52",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/TV/Materials/TVBox_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/TV/Materials/M_TVGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C0E2C7C03EF103E416E0745B291A7769F8E8F7A8",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/TV/Materials/Black_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF028E039B6C9068352F749C6D5663F37EC41A97",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Materials/Master_Masked_CHEAP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "394DB8B0A0A6B6D322985673DE089A06EC0374C3",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Power/Materials/Fusebox_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1AE55CDD5035B1B778B9D6BD4C06EF3D78E4A172",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Lights/Materials/OfficeBulb_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D08915CC933014241F2BFEA2B700ABBC1FE05B16",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Lights/Materials/Bulb_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44992764ECB490EAA21D523B966547968A72F3A3",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Lights/Materials/Light_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CAB7A9EC32473513EB77C33ED806CFD6226F151E",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/StunGrenade/Materials/StunGrenadeBlue_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "691498AA7A7EF0B0C712E5E5435640C481F514D2",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/StunGrenade/Materials/StunGrenadeBlack_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D057BCBA24CE8E656AB3832BBB36657F05BC3CB4",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Flashbang/Materials/FlashbangTransparent_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3F27351B04A168FBD89678672FF29D12C73DA200",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Flashbang/Materials/FlashbangInside_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6EA358EDC68163A0F8C6DCE66F00A56994B8EDE3",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Flashbang/Materials/FlashbangGreen_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C99D42011C2CF1D32584CF165D08AE67F5D77D2D",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/StarterContent/Particles/Materials/M_explosion_StunGrenade_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "323FEF2335677042B1822001A64D1C8AF47AD4F8",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/SmokeGrenade/Materials/SmokeGrenadeGreen.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2CB4A0B8E234F187F309F0ABBE32CB05755D6C8A",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Noisemaker/Materials/NoisemakerSpeaker_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0015401106C51033F8047C70700EF2EDD93238F5",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Noisemaker/Materials/NoisemakerBase_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D977C8323DCF324BD392B30660E8EB4983C62262",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Noisemaker/Materials/NoisemakerLight_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14EDB551CA13DB57D7240FF3081CD5BE94D1EDAF",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Molotov/Materials/MolotovPaper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B25AD38953869701914C464BE3E4D90C43101DC5",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Molotov/Materials/MolotovGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/StarterContent/Particles/Materials/M_smoke_subUV_512x512.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/StarterContent/Particles/Materials/M_Fire_SubUV_512x512.uasset",
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/StarterContent/Particles/Materials/M_Fire_SubUV_256x256.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A9A9815AA549D1B08312280194618D1BAA25E842",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/StarterContent/Particles/Materials/M_Fire_SubUV_128x128.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03847A0A619B1CCDD9D5450D438ABF25E6B1FD97",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Throwables/Flare/Materials/Flare_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7100ED8705C0E15431EEFCDE742B364E4B675AFE",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Plunderer/Materials/LootJewel_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "79E9656482A4373611B06CBCB18382AE25C3D8DF",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Keycard/Materials/Keycard_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F8869EC62C34A1A9A53B02A966828FD30A0BAAE1",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Oddball/Materials/Oddball_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B10783231ED8CAEA4FCA76C909F51463136FB678",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Oddball/Materials/OddballLight_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/Gramophone/Materials/Gramophone_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9167BCA6ECEA1FB8DFAB1D55F735288EF22BC8C",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/CameraSystem/Materials/CameraLight_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BFC96005B5375770B8F41E81278C45D41BF3D4EC",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/CameraSystem/Materials/CameraCasing_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A98421042B5DF8322FE9897A3E184846B0C37218",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/CameraSystem/Materials/CameraGlass_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B23CC1BABC7B69748BE1774998C5C3337C27846A",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/CameraSystem/Materials/M_TV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "54F10D5474A6782B8762F7C4370A20B3FED9710E",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/EscapeDoor/ExitSign/Materials/ExitSign_MAT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "662F0E754079D804B0A762F1D501C4466B024856",
+			"Assets": [
+				"../../../Real Mod Horror Royale/HorrorRoyale/Content/EscapeDoor/ExitSign/Materials/DefaultTextMaterialOpaque_ExitSign.uasset"
+			]
+		}
+	]
+}

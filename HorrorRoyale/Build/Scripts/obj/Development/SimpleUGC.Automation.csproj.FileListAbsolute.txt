@@ -1,0 +1,7 @@
+C:\UE4 Source\UnrealEngine-4.26\Engine\Binaries\DotNET\AutomationScripts\SimpleUGC.Automation.dll
+C:\UE4 Source\UnrealEngine-4.26\Engine\Binaries\DotNET\AutomationScripts\SimpleUGC.Automation.pdb
+C:\UE4 Source\UnrealEngine-4.26\Projects\HorrorRoyale\Build\Scripts\obj\Development\SimpleUGC.Automation.csproj.AssemblyReference.cache
+C:\UE4 Source\UnrealEngine-4.26\Projects\HorrorRoyale\Build\Scripts\obj\Development\SimpleUGC.Automation.csproj.CoreCompileInputs.cache
+C:\UE4 Source\UnrealEngine-4.26\Projects\HorrorRoyale\Build\Scripts\obj\Development\SimpleUGC.Automation.csproj.CopyComplete
+C:\UE4 Source\UnrealEngine-4.26\Projects\HorrorRoyale\Build\Scripts\obj\Development\SimpleUGC.Automation.dll
+C:\UE4 Source\UnrealEngine-4.26\Projects\HorrorRoyale\Build\Scripts\obj\Development\SimpleUGC.Automation.pdb

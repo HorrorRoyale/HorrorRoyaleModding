@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HorrorRoyale",
+			"Path": "C:\\UE4 Source\\UnrealEngine-4.26\\Projects\\HorrorRoyale\\Source\\HorrorRoyale.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HorrorRoyaleEditor",
+			"Path": "C:\\UE4 Source\\UnrealEngine-4.26\\Projects\\HorrorRoyale\\Source\\HorrorRoyaleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
